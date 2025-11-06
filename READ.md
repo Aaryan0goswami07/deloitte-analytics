@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Project Goal  
-Simulated Daikibo manufacturing ops – Unified telemetry/sales JSON data, detected APAC anomalies (revenue <2000 OR downtime >2 hrs) using SQL. Output prepped for Tableau dashboard (CSV export).
+Simulated **Daikibo manufacturing** ops under a data breach scenario — unified telemetry & sales JSON logs, detected **APAC anomalies** (revenue <2000 **OR** downtime >2 hrs) using SQL. Output prepped for **Tableau dashboard** (CSV export).
 
 ---
 
@@ -14,8 +14,8 @@ Simulated Daikibo manufacturing ops – Unified telemetry/sales JSON data, detec
 | Skill | Tool/Concept |
 |-------|--------------|
 | SQL | Joins, filters, CTEs, anomaly detection |
-| Data Unification | JSON to relational tables |
-| Business Insights | 20% breach risk flagged (revenue <2000) |
+| Data Unification | JSON → relational tables |
+| Business Insights | **20% breach risk flagged** (revenue <2000) |
 
 ---
 
