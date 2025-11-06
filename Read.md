@@ -6,7 +6,7 @@
 ---
 
 ## 🎯 Project Goal  
-Simulated manufacturing ops for Daikibo – Unified telemetry/sales JSON data, detected anomalies (low revenue/downtime breaches) in APAC region for Tableau dashboard prep.
+Simulated Daikibo manufacturing ops – Unified telemetry/sales JSON data, detected APAC anomalies (revenue <2000 OR downtime >2 hrs) using SQL. Output prepped for Tableau dashboard (CSV export).
 
 ---
 
