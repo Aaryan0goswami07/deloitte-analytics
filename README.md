@@ -27,7 +27,7 @@ Simulated Daikibo manufacturing breach response – Unified telemetry & sales JS
 [Agent Email Proof](zapier_email_proof.jpg)  
 > **Dent**: Auto-email on new anomaly → **5x faster response**
 > [Bias Audit Output](bias_audit_output.jpeg)  
-> **Dent**: Fairlearn reduced skew 5% (ethical AI check).
+> **Dent**: Fairlearn reduced skew 5% (ethical AI check). 
 
 ## 📊 SQL Pipeline & Results  
 ```sql
