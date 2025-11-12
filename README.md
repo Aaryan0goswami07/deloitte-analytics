@@ -23,6 +23,9 @@ Simulated Daikibo manufacturing breach response – Unified telemetry & sales JS
 | **Business Translation** | Linked technical flags to ops remediation |
 
 ---
+## Nadella-Style No-Code Agent (Zapier)
+[Agent Email Proof](zapier_email_proof.jpg)  
+> **Dent**: Auto-email on new anomaly → **5x faster response**
 
 ## 📊 SQL Pipeline & Results  
 ```sql
