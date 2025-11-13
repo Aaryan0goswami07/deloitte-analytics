@@ -34,3 +34,15 @@ Simulated Daikibo manufacturing breach response – Unified telemetry & sales JS
 -- Unified view + anomaly detection (DB Fiddle - SQLite)
 SELECT * FROM unified_data 
 WHERE (revenue < 2000 OR downtime_hrs > 2) AND region = 'APAC';
+
+## Huang-Style GPU Acceleration (1M Rows — 21.10x Speedup)
+
+> **"From SQL to AI Factory"** — Scaled Deloitte anomaly detection to 1,000,000 factory rows using **NVIDIA GPU + PyTorch tensors**.
+
+[Full Notebook](huang_gpu_1m_21x.ipynb) | [Output Proof](huang_gpu_21x_speedup.jpg)
+
+```text
+CPU Time: 0.0257 sec
+GPU Time: 0.0012 sec
+SPEEDUP: 21.10x
+Anomalies Found: 283,297
